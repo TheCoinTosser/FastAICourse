@@ -26,3 +26,19 @@ conda activate fast_ai
 ```powershell
 conda info --envs
 ```
+
+## pip installation ##
+```powershell
+conda install pip
+pip --version
+```
+
+## JupyterLab installation ##
+```powershell
+pip install jupyterlab
+```
+
+## Lauch JupyterLab ##
+```powershell
+jupyter lab
+```
