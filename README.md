@@ -1,10 +1,6 @@
-################
-# FastAICourse #
-
 A repository created to track my FastAI's course journey
 
-###############################
-## Installation (Windows 11) ##
+## Conda installation (Windows 11) ##
 
 1) Go to https://conda-forge.org/download/ and download the latest version of Miniforge3 (.exe).
 
