@@ -9,7 +9,7 @@
 wget "https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-$(uname)-$(uname -m).sh"
 bash Miniforge3-$(uname)-$(uname -m).sh
 ```
-PS: Instructions for the above can also be found [here]:(https://github.com/conda-forge/miniforge).
+PS: Instructions for the above can also be found [here](https://github.com/conda-forge/miniforge).
 
 3) Restart your Linux terminal (otherwise, the "conda" command won't be found).
 
